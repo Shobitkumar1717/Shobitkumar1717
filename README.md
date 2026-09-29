@@ -4,12 +4,8 @@
 
 <h1 align="center">Hi, I'm Shobit Kumar 👋</h1>
 
-<h3 align="center">
-Backend Developer | C# | .NET | ASP.NET Core | SQL
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=750&lines=C%23+%7C+.NET+Backend+Developer;Building+Production+Business+Software;MVVM+%7C+SQL+%7C+Stored+Procedures;Learning+ASP.NET+Core+Backend+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+SQL;Building+Production+Business+Software;MVVM+%7C+SQL+%7C+Stored+Procedures;Learning+ASP.NET+Core+Backend+Development" />
 </p>
 # Hi, I'm Shobit Kumar 👋
 
